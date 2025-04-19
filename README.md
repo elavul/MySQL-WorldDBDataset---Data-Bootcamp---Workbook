@@ -128,15 +128,17 @@
     SELECT Name FROM city ORDER BY Population DESC LIMIT 10 OFFSET 30;
 
 ---
+- Schema design  
+![Screenshot 2025-04-19 135544](https://github.com/user-attachments/assets/e776a30f-32a8-4f34-9706-770d1b5e890f)
+---
 
 #### ✅ **Day 4: Optional Essay Task**
 **Topic:** Designing a database system for a retail business (e.g., groceries & household items)  
 **Expected Sections:**  
 - Business needs  
 - Table relationships (e.g., `Sales`, `Customers`, `Inventory`)  
-- Schema design  
 - SQL `CREATE`, `INSERT`, `JOIN` examples  
-- Maintenance, backup, and data integrity strategy  
+- Maintenance, backup, and data integrity strategy
 
 ---
 

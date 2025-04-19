@@ -141,7 +141,7 @@
 ---
 
 ### 🧰 **Tools Used**  
-- SQL (MySQL or similar)  
+- MySQL 
 - `world_db` dataset  
 
 ---
@@ -153,7 +153,7 @@
 ├── 📄 README.md
 ├── 📄 Data_Technician_Workbook_Week_3_Summary.sql
 ├── 📁 screenshots/
-│   └── *.png (if applicable)
+│   └── *.png 
 ├── 📁 datasets/
 │   └── world_db/
 ```
